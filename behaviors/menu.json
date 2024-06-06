@@ -1,0 +1,17 @@
+{
+    "1": {
+        "name": "Gemini",
+        "module": "interfaces_to_AI.gemini",
+        "className": "gemini"
+    },
+    "2": {
+        "name": "ChatGPT",
+        "module": "interfaces_to_AI.openai",
+        "className": "openai"   
+    },
+    "3": {
+        "name": "WatsonX",
+        "module": "interfaces_to_AI.watsonx",
+        "className": "watsonx"
+    }
+}
